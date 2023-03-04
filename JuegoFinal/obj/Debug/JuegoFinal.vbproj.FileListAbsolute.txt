@@ -1,0 +1,128 @@
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal(1)\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Sebast\Escritorio\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Papasconsalsadetomate\JuegoFinal\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Mayo 17 Noche\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Hoy\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mac Leopard\Escritorio\Programa Final\Trabajo\Hoy 5 50pm 18 de Mayo\JuegoFinal\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.exe
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.xml
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.pdb
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.exe
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.pdb
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.xml
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Diego\Documents\A Entregar\JuegoFinal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.exe
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.pdb
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\bin\Debug\JuegoFinal.xml
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.vbprojAssemblyReference.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Form3.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.vbproj.CoreCompileInputs.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.exe
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.xml
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\A Entregar\JuegoFinal\obj\Debug\JuegoFinal.pdb
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\bin\Debug\JuegoFinal.exe
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\bin\Debug\JuegoFinal.pdb
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\bin\Debug\JuegoFinal.xml
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.vbprojAssemblyReference.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\WindowsApplication1.Form2.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\WindowsApplication1.Form3.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.vbproj.GenerateResource.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.vbproj.CoreCompileInputs.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.exe
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.xml
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\VB\Final\JuegoFinal\obj\Debug\JuegoFinal.pdb
